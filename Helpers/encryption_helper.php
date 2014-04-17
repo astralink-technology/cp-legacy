@@ -13,15 +13,12 @@ require_once $_SERVER['DOCUMENT_ROOT'] . '/Libraries/password_compat/lib/passwor
  */
 class cp_encryption_helper{
     public function verify(){
-        if (isset($_POST['json'])){
-            $jsonPost = $_POST['json'];
-            $credentials = json_decode($jsonPost, true);
-
-            $password = $credentials['InputPassword'];
-            $hash = $credentials['HashedPassword'];
-            return password_verify($password, $hash);
+        if (isset($_POST['InputPassword']) && isset($_POST['HashedPassword'])){
+            $password = $_POST['InputPassword'];
+            $hash = $_POST['HashedPassword'];
+            echo json_encode(password_verify($password, $hash));
         }else{
-            return false;
+            echo json_encode(false);
         }
     }
 }
