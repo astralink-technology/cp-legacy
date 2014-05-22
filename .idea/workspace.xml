@@ -2,8 +2,144 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4009e69-3856-4824-9597-66166839a3d9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Helpers/socket_helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/images/phpmailer.png" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/images/phpmailer.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/images/phpmailer_mini.gif" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/images/phpmailer_mini.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/wrapping.png" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/wrapping.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/.gitignore" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/password_compat/.gitignore" afterPath="$PROJECT_DIR$/Libraries/password_compat/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/.travis.yml" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/password_compat/.travis.yml" afterPath="$PROJECT_DIR$/Libraries/password_compat/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/docs/Callback_function_notes.txt" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/docs/Callback_function_notes.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/docs/DomainKeys_notes.txt" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/docs/DomainKeys_notes.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/extras/EasyPeasyICS.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/extras/EasyPeasyICS.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/LGPLv3.txt" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/LGPLv3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/password_compat/LICENSE.md" afterPath="$PROJECT_DIR$/Libraries/password_compat/LICENSE.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/LICENSE" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/docs/Note_for_SMTP_debugging.txt" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/docs/Note_for_SMTP_debugging.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/PHPMailerAutoload.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/PHPMailerAutoload.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/password_compat/test/Unit/PasswordGetInfoTest.php" afterPath="$PROJECT_DIR$/Libraries/password_compat/test/Unit/PasswordGetInfoTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/password_compat/test/Unit/PasswordHashTest.php" afterPath="$PROJECT_DIR$/Libraries/password_compat/test/Unit/PasswordHashTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/password_compat/test/Unit/PasswordNeedsRehashTest.php" afterPath="$PROJECT_DIR$/Libraries/password_compat/test/Unit/PasswordNeedsRehashTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/password_compat/test/Unit/PasswordVerifyTest.php" afterPath="$PROJECT_DIR$/Libraries/password_compat/test/Unit/PasswordVerifyTest.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/README.md" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/password_compat/README.md" afterPath="$PROJECT_DIR$/Libraries/password_compat/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Helpers/UTCconvertor_helper.php" afterPath="$PROJECT_DIR$/Helpers/UTCconvertor_helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/scripts/XRegExp.js" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/scripts/XRegExp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Helpers/authentication_helper.php" afterPath="$PROJECT_DIR$/Helpers/authentication_helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Helpers/authorization_helper.php" afterPath="$PROJECT_DIR$/Helpers/authorization_helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/changelog.md" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/changelog.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/extras/class.html2text.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/extras/class.html2text.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/class.phpmailer.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/class.phpmailer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/class.pop3.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/class.pop3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/class.smtp.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/class.smtp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/code_generator.phps" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/code_generator.phps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/composer.json" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/password_compat/composer.json" afterPath="$PROJECT_DIR$/Libraries/password_compat/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/password_compat/composer.lock" afterPath="$PROJECT_DIR$/Libraries/password_compat/composer.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/contents.html" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/contents.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/cp-legacy.iml" afterPath="$PROJECT_DIR$/.idea/cp-legacy.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Helpers/databaseAdapter_helper.php" afterPath="$PROJECT_DIR$/Helpers/databaseAdapter_helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Helpers/encryption_helper.php" afterPath="$PROJECT_DIR$/Helpers/encryption_helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/exceptions.phps" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/exceptions.phps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/docs/extending.html" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/docs/extending.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/test/fakepopserver.sh" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/test/fakepopserver.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/test/fakesendmail.sh" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/test/fakesendmail.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/docs/faq.html" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/docs/faq.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/docs/generatedocs.sh" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/docs/generatedocs.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/gmail.phps" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/gmail.phps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/extras/htmlfilter.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/extras/htmlfilter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Helpers/idgenerator_helper.php" afterPath="$PROJECT_DIR$/Helpers/idgenerator_helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/index.html" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Helpers/log_helper.php" afterPath="$PROJECT_DIR$/Helpers/log_helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/mail.phps" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/mail.phps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Helpers/mailSender_helper.php" afterPath="$PROJECT_DIR$/Helpers/mailSender_helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/mailing_list.phps" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/mailing_list.phps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/extras/ntlm_sasl_client.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/extras/ntlm_sasl_client.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/password_compat/lib/password.php" afterPath="$PROJECT_DIR$/Libraries/password_compat/lib/password.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Helpers/pgdatabase_helper.php" afterPath="$PROJECT_DIR$/Helpers/pgdatabase_helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-ar.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-ar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-br.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-br.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-ca.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-ca.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-ch.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-ch.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-cz.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-cz.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-de.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-de.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-dk.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-dk.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-eo.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-eo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-es.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-es.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-et.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-et.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-fa.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-fa.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-fi.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-fi.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-fo.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-fo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-fr.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-fr.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-he.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-he.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-hu.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-hu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-it.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-it.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-ja.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-ja.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-lt.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-lt.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-nl.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-nl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-no.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-no.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-pl.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-pl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-ro.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-ro.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-ru.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-ru.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-se.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-se.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-sk.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-sk.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-tr.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-tr.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-uk.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-uk.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-zh.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-zh.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-zh_cn.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/language/phpmailer.lang-zh_cn.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/test/phpmailerLangTest.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/test/phpmailerLangTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/test/phpmailerTest.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/test/phpmailerTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/password_compat/phpunit.xml.dist" afterPath="$PROJECT_DIR$/Libraries/password_compat/phpunit.xml.dist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/docs/pop3_article.txt" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/docs/pop3_article.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/pop_before_smtp.phps" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/pop_before_smtp.phps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Helpers/productRegistration_helper.php" afterPath="$PROJECT_DIR$/Helpers/productRegistration_helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Helpers/resData_helper.php" afterPath="$PROJECT_DIR$/Helpers/resData_helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Helpers/router_helper.php" afterPath="$PROJECT_DIR$/Helpers/router_helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/test/runfakepopserver.sh" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/test/runfakepopserver.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/sendmail.phps" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/sendmail.phps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Helpers/session_helper.php" afterPath="$PROJECT_DIR$/Helpers/session_helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/scripts/shAutoloader.js" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/scripts/shAutoloader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/scripts/shBrushPhp.js" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/scripts/shBrushPhp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shCore.css" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shCore.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/scripts/shCore.js" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/scripts/shCore.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shCoreDefault.css" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shCoreDefault.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shCoreDjango.css" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shCoreDjango.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shCoreEclipse.css" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shCoreEclipse.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shCoreEmacs.css" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shCoreEmacs.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shCoreFadeToGrey.css" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shCoreFadeToGrey.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shCoreMDUltra.css" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shCoreMDUltra.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shCoreMidnight.css" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shCoreMidnight.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shCoreRDark.css" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shCoreRDark.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/scripts/shLegacy.js" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/scripts/shLegacy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shThemeAppleScript.css" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shThemeAppleScript.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shThemeDefault.css" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shThemeDefault.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shThemeDjango.css" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shThemeDjango.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shThemeEclipse.css" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shThemeEclipse.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shThemeEmacs.css" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shThemeEmacs.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shThemeFadeToGrey.css" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shThemeFadeToGrey.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shThemeMDUltra.css" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shThemeMDUltra.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shThemeMidnight.css" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shThemeMidnight.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shThemeRDark.css" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shThemeRDark.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shThemeVisualStudio.css" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/styles/shThemeVisualStudio.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/smtp.phps" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/smtp.phps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/examples/smtp_no_auth.phps" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/examples/smtp_no_auth.phps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Helpers/sqlconnection_helper.php" afterPath="$PROJECT_DIR$/Helpers/sqlconnection_helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/test/test_callback.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/test/test_callback.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/PHPMailer/test/testbootstrap-dist.php" afterPath="$PROJECT_DIR$/Libraries/PHPMailer/test/testbootstrap-dist.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Helpers/user_helper.php" afterPath="$PROJECT_DIR$/Helpers/user_helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/password_compat/version-test.php" afterPath="$PROJECT_DIR$/Libraries/password_compat/version-test.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Helpers/view_helper.php" afterPath="$PROJECT_DIR$/Helpers/view_helper.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="cp-legacy.iws" />
@@ -27,10 +163,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="29" selection-start="528" selection-end="533" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="360">
+            <state line="26" column="0" selection-start="971" selection-end="971" vertical-scroll-proportion="0.47387606" vertical-offset="0" max-vertical-offset="823">
               <folding />
             </state>
           </provider>
@@ -39,19 +175,28 @@
       <file leaf-file-name="log_helper.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Helpers/log_helper.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="7" selection-start="355" selection-end="355" vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="465">
-              <folding>
-                <element signature="e#7#92#0" expanded="true" />
-              </folding>
+            <state line="17" column="7" selection-start="355" selection-end="355" vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="405">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="encryption_helper.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="encryption_helper.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Helpers/encryption_helper.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="0" selection-start="590" selection-end="590" vertical-scroll-proportion="0.70069206" vertical-offset="0" max-vertical-offset="578">
+            <state line="20" column="36" selection-start="565" selection-end="565" vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="495">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="socket_helper.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Helpers/socket_helper.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="62" column="35" selection-start="2182" selection-end="2182" vertical-scroll-proportion="-38.75" vertical-offset="0" max-vertical-offset="1140">
+              <folding>
+                <element signature="e#6#91#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -69,18 +214,18 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Helpers/encryption_helper.php" />
         <option value="$PROJECT_DIR$/Helpers/log_helper.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/Helpers/encryption_helper.php" />
+        <option value="$PROJECT_DIR$/Helpers/socket_helper.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
     <option name="y" value="22" />
-    <option name="width" value="1260" />
-    <option name="height" value="722" />
+    <option name="width" value="1920" />
+    <option name="height" value="970" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -163,6 +308,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="SearchEverywhereHistory" value="" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -212,7 +358,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="22" width="1260" height="722" extended-state="0" />
+    <frame x="0" y="22" width="1920" height="970" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -221,7 +367,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26190478" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.178125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -238,7 +384,7 @@
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USERS">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
       <collection />
     </option>
   </component>
@@ -254,6 +400,27 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="29" selection-start="528" selection-end="533" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Helpers/log_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="7" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="465">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Helpers/encryption_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="590" selection-end="590" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="495">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="0" selection-start="431" selection-end="431" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="315">
@@ -296,25 +463,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="29" selection-start="528" selection-end="533" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="360">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Helpers/log_helper.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="7" selection-start="355" selection-end="355" vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="465">
-          <folding>
-            <element signature="e#7#92#0" expanded="true" />
-          </folding>
+        <state line="17" column="7" selection-start="355" selection-end="355" vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="405">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Helpers/encryption_helper.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="590" selection-end="590" vertical-scroll-proportion="0.70069206" vertical-offset="0" max-vertical-offset="578">
+        <state line="20" column="36" selection-start="565" selection-end="565" vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="495">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Helpers/socket_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="35" selection-start="2182" selection-end="2182" vertical-scroll-proportion="-38.75" vertical-offset="0" max-vertical-offset="1140">
+          <folding>
+            <element signature="e#6#91#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="971" selection-end="971" vertical-scroll-proportion="0.47387606" vertical-offset="0" max-vertical-offset="823">
           <folding />
         </state>
       </provider>
